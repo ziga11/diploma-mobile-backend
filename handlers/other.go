@@ -190,7 +190,7 @@ func setReminderBody(obligation *types.Obligation, timeElapsed time.Duration) {
 		return
 	}
 	currentDir := filepath.Dir(filename)
-	reminderJson := filepath.Join(currentDir, "../storage/json/reminders.json")
+	reminderJson := filepath.Join(currentDir, "../reminders.json")
 
 	b, err := os.ReadFile(reminderJson)
 	if err != nil {
