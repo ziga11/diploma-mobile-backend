@@ -34,4 +34,7 @@ This repository serves as the primary backend for the mobile application. It man
 ![ER Diagram](/assets/readme/er_other.svg)
 
 ### Slack Demo
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/d9135996-385f-430d-8895-813d059dd8fc" width="100%" controls muted>
+  </video>
+</div>
