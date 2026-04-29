@@ -23,3 +23,15 @@ This repository serves as the primary backend for the mobile application. It man
 * **Cryptographic Standards:** Implements AES-GCM for the protection of sensitive candidate and organizational data.
 * **Automated Maintenance:** Leverages `pg_cron` to maintain database health by automatically removing expired security tokens.
 * **Clean Architecture:** Follows modular design principles to separate API handlers, business logic, and external service integrations.
+
+## Previews
+### ER Diagrams
+**Messages**
+![ER Diagram](/assets/readme/er_message.svg)
+**Obligations**
+![ER Diagram](/assets/readme/er_obligation.svg)
+**Other**
+![ER Diagram](/assets/readme/er_other.svg)
+
+### Slack Demo
+
